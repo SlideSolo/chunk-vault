@@ -13,7 +13,7 @@ Chunk Vault is a simple implementation of a file storage system that allows you 
 
 ## Prerequisites
 
-- Golang (1.16 or later)
+- Golang (1.20 or later)
 - curl or postman (for testing the API endpoints)
 
 ## Installation
